@@ -1,0 +1,14 @@
+C:\Users\Victor\Programacao\CSharp\ProjetoQuiz\ProjetoQuiz\ProjetoQuiz\bin\Debug\ProjetoQuiz.exe.config
+C:\Users\Victor\Programacao\CSharp\ProjetoQuiz\ProjetoQuiz\ProjetoQuiz\bin\Debug\ProjetoQuiz.exe
+C:\Users\Victor\Programacao\CSharp\ProjetoQuiz\ProjetoQuiz\ProjetoQuiz\bin\Debug\ProjetoQuiz.pdb
+C:\Users\Victor\Programacao\CSharp\ProjetoQuiz\ProjetoQuiz\ProjetoQuiz\obj\Debug\ProjetoQuiz.csproj.AssemblyReference.cache
+C:\Users\Victor\Programacao\CSharp\ProjetoQuiz\ProjetoQuiz\ProjetoQuiz\obj\Debug\ProjetoQuiz.csproj.SuggestedBindingRedirects.cache
+C:\Users\Victor\Programacao\CSharp\ProjetoQuiz\ProjetoQuiz\ProjetoQuiz\obj\Debug\ProjetoQuiz.Form1.resources
+C:\Users\Victor\Programacao\CSharp\ProjetoQuiz\ProjetoQuiz\ProjetoQuiz\obj\Debug\ProjetoQuiz.Properties.Resources.resources
+C:\Users\Victor\Programacao\CSharp\ProjetoQuiz\ProjetoQuiz\ProjetoQuiz\obj\Debug\ProjetoQuiz.csproj.GenerateResource.cache
+C:\Users\Victor\Programacao\CSharp\ProjetoQuiz\ProjetoQuiz\ProjetoQuiz\obj\Debug\ProjetoQuiz.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Programacao\CSharp\ProjetoQuiz\ProjetoQuiz\ProjetoQuiz\obj\Debug\ProjetoQuiz.exe
+C:\Users\Victor\Programacao\CSharp\ProjetoQuiz\ProjetoQuiz\ProjetoQuiz\obj\Debug\ProjetoQuiz.pdb
+C:\Users\Victor\Programacao\CSharp\ProjetoQuiz\ProjetoQuiz\ProjetoQuiz\obj\Debug\ProjetoQuiz.frmFinal.resources
+C:\Users\Victor\Programacao\CSharp\ProjetoQuiz\ProjetoQuiz\ProjetoQuiz\obj\Debug\ProjetoQuiz.frmP1.resources
+C:\Users\Victor\Programacao\CSharp\ProjetoQuiz\ProjetoQuiz\ProjetoQuiz\obj\Debug\ProjetoQuiz.frmP2.resources
